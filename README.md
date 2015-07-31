@@ -12,7 +12,7 @@ Here's a little preview of what this widget can output, I am using twentytwelve 
 
 # Comments, Support, ..
 
-Have something to say about this widget ? head to <a href="http:/sam.elegance-style.com/" target="_new">my WordPress blog</a> where you could find an article about this little plugin, and where you could get in touch with me through my <a href="http://sam.elegance-style.com/contact-me/">contact page</a>
+Have something to say about this widget ? head to <a href="http:/sam.elegance-style.com/" target="_new">my WordPress blog</a> where you could find an article about this little plugin, and where you could get in touch with me through my <a href="http://sam.elegance-style.com/contact-me/" target="_new">contact page</a>
 
 # Thanks!
 
