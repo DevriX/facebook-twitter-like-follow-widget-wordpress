@@ -122,3 +122,11 @@ function elh_social_widget($fb, $tw) {
 
 	<?php
 }
+
+function ftlfw_donate_link( $links ) {
+    $settings_link = '<a href="http://go.elegance-style.com/donate/" target="_new">' . __( 'Donate' ) . '</a>';
+    array_push( $links, $settings_link );
+  	return $links;
+}
+$plugin = plugin_basename( __FILE__ );
+add_filter( "plugin_action_links_$plugin", 'ftlfw_donate_link' );
