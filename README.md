@@ -21,3 +21,5 @@ Have something to say about this widget ? head to <a href="http:/sam.elegance-st
 <h3>Thanks!</h3>
 
 Thank you for using this plugin!
+
+<a href="http://go.elegance-style.com/donate/" target="_new">Make a donation?</a>
