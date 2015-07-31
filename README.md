@@ -1,19 +1,23 @@
 # Facebook and Twitter Like/Follow Widget
+
+<h3>Description</h3>
+
 Facebook and Twitter Like/Follow Widget shows a light box containing a like and follow button.
 
-# Widget Preview
+<h3>Widget Preview</h3>
+
 Here's a little preview of what this widget can output, I am using twentytwelve theme
 
 <img src="http://i.imgur.com/PACebWP.png" alt="widget preview" />
 
-# Admin widget preview
+<h3>Admin widget preview</h3>
 
 <img src="http://i.imgur.com/vXOGKAF.png" alt="admin widget preview" />
 
-# Comments, Support, ..
+<h3>Comments, Support, ..</h3>
 
 Have something to say about this widget ? head to <a href="http:/sam.elegance-style.com/" target="_new">my WordPress blog</a> where you could find an article about this little plugin, and where you could get in touch with me through my <a href="http://sam.elegance-style.com/contact-me/" target="_new">contact page</a>
 
-# Thanks!
+<h3>Thanks!</h3>
 
 Thank you for using this plugin!
